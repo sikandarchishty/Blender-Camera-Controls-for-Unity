@@ -1,6 +1,8 @@
 # **Blender Camera Controls for Unity**
 This script is an extension of **[Blender Camera Controls Window](http://wiki.unity3d.com/index.php/Blender_Camera_Controls_Window "Blender Camera Controls Window")** (by Will Traxler) which is an exension of **[Blender Camera Controls](http://wiki.unity3d.com/index.php/Blender_Camera_Controls "Blender Camera Controls")** (by Marc Kusters).
 
+The Controls works if Scene Window is active.
+
 &nbsp;
 
 ## # **Comparison with other Versions**
